@@ -3,6 +3,6 @@ Proyecto final del curso de Asincronismo con JavaScript donde utilizamos un fram
 https://rapidapi.com/ytdlfree/api/youtube-v31/
 
 Tambien pueden ver la pagina web del proyecto:
-https://leonelvalencia.github.io/asyncJS-landing/
+https://leonelvalencia.github.io/asyncJS-landing/src/index.html
 
 [![Curso-de-Asincronismo-con-Java-Script.png](https://i.postimg.cc/LXL8dVP4/Curso-de-Asincronismo-con-Java-Script.png)](https://postimg.cc/626XnnzF)
